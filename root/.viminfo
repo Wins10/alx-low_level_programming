@@ -12,13 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1720557377,,"wq"
+|2,0,1720563060,,"wq"
+:q
+|2,0,1720560188,,"q"
 :wq!
 |2,0,1718823876,,"wq!"
 :WQ
 |2,0,1718810452,,"WQ"
-:q
-|2,0,1718408137,,"q"
 :w
 |2,0,1718367649,,"w"
 
@@ -33,239 +33,295 @@
 # Registers:
 
 # File marks:
-'0  34  7  /.git/COMMIT_EDITMSG
-|4,48,34,7,1720557377,"/.git/COMMIT_EDITMSG"
-'1  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,49,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
-'2  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,50,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
-'3  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,51,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
-'4  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,52,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'5  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,53,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'6  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,54,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'7  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,55,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'8  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,56,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'9  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,57,1,93,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'0  19  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,48,19,0,1720563060,"~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+'1  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,49,12,35,1720562330,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+'2  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,50,12,35,1720561396,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+'3  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,51,12,35,1720561305,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+'4  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,52,12,35,1720561305,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+'5  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,53,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+'6  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,54,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+'7  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,55,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+'8  1  47  ~/alx-low_level_programming/0x07-pointers_arrays_strings/README.md
+|4,56,1,47,1720559632,"~/alx-low_level_programming/0x07-pointers_arrays_strings/README.md"
+'9  1  7  /.git/COMMIT_EDITMSG
+|4,57,1,7,1720558954,"/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
--'  34  7  /.git/COMMIT_EDITMSG
-|4,39,34,7,1720557377,"/.git/COMMIT_EDITMSG"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1720557285,"/.git/COMMIT_EDITMSG"
--'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,39,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
--'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,39,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
--'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,39,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
--'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,39,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
--'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  19  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,19,0,1720563060,"~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1720562442,"~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,12,35,1720562330,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,12,35,1720562330,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,12,35,1720561396,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,12,35,1720561396,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,12,35,1720561305,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  12  35  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,12,35,1720561305,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,1,0,1720560274,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,1,0,1720560274,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,1,0,1720560274,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,1,0,1720560274,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,1,0,1720560274,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,1,0,1720560274,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560252,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+|4,39,1,0,1720560188,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  14  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,14,0,1720560108,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1720559725,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1720559725,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1720559725,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1720559725,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1720559725,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1720559725,"~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c"
 
 # History of marks within files (newest to oldest):
 
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+	*	1720563057	0
+	"	19	0
+	^	19	0
+	.	20	0
+	+	1	1
+	+	1	17
+	+	8	51
+	+	10	46
+	+	11	0
+	+	10	46
+	+	66	2
+	+	14	19
+	+	16	11
+	+	19	12
+	+	20	0
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+	*	1720562327	0
+	"	12	35
+	^	12	36
+	.	12	35
+	+	3	47
+	+	4	21
+	+	6	31
+	+	7	44
+	+	9	43
+	+	10	36
+	+	12	35
+	+	5	6
+	+	12	35
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+	*	1720560249	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	1	17
+	+	11	20
+	+	13	26
+	+	14	0
+	+	13	25
+	+	14	0
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar
+	*	1720560185	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/README.md
+	*	1720559631	0
+	"	1	47
+	^	1	48
+	.	2	0
+	+	2	0
+
 > /.git/COMMIT_EDITMSG
-	*	1720557372	0
-	"	34	7
-	^	34	8
-	.	35	0
+	*	1720558951	0
+	"	1	7
+	^	1	8
+	.	1	7
 	+	33	15
 	+	34	8
 	+	35	0
+	+	1	7
 
 > ~/alx-low_level_programming/0x03-debugging/0-main.c
 	*	1720555922	0
