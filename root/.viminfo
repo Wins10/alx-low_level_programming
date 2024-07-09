@@ -12,9 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1718371949,,"wq"
+|2,0,1720555924,,"wq"
+:wq!
+|2,0,1718823876,,"wq!"
+:WQ
+|2,0,1718810452,,"WQ"
 :q
-|2,0,1718367654,,"q"
+|2,0,1718408137,,"q"
 :w
 |2,0,1718367649,,"w"
 
@@ -29,233 +33,688 @@
 # Registers:
 
 # File marks:
-'0  2  1  /alx-system_engineering-devops/0x00-shell_basics/l-listit
-|4,48,2,1,1718371949,"/alx-system_engineering-devops/0x00-shell_basics/l-listit"
-'1  1  0  ~/0x01_emacs/quitting
-|4,49,1,0,1718368392,"~/0x01_emacs/quitting"
-'2  1  5  ~/0x01_emacs/quitting
-|4,50,1,5,1718368338,"~/0x01_emacs/quitting"
-'3  1  4  ~/0x01_emacs/undoing
-|4,51,1,4,1718368248,"~/0x01_emacs/undoing"
-'4  1  2  ~/0x01_emacs/searching
-|4,52,1,2,1718368178,"~/0x01_emacs/searching"
-'5  1  2  ~/0x01_emacs/pasting
-|4,53,1,2,1718368108,"~/0x01_emacs/pasting"
-'6  1  2  ~/0x01_emacs/pasting
-|4,54,1,2,1718368108,"~/0x01_emacs/pasting"
-'7  1  2  ~/0x01_emacs/cutting
-|4,55,1,2,1718368003,"~/0x01_emacs/cutting"
-'8  1  2  ~/0x01_emacs/cutting
-|4,56,1,2,1718368003,"~/0x01_emacs/cutting"
-'9  1  2  ~/0x01_emacs/cutting
-|4,57,1,2,1718367858,"~/0x01_emacs/cutting"
+'0  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,48,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+'1  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,49,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+'2  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,50,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+'3  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,51,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'4  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,52,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'5  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,53,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'6  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,54,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'7  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,55,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'8  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,56,1,93,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'9  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,57,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 
 # Jumplist (newest first):
--'  2  1  /alx-system_engineering-devops/0x00-shell_basics/l-listit
-|4,39,2,1,1718371949,"/alx-system_engineering-devops/0x00-shell_basics/l-listit"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/l-listit
-|4,39,1,0,1718371917,"/alx-system_engineering-devops/0x00-shell_basics/l-listit"
--'  1  0  ~/0x01_emacs/quitting
-|4,39,1,0,1718368392,"~/0x01_emacs/quitting"
--'  1  0  ~/0x01_emacs/quitting
-|4,39,1,0,1718368392,"~/0x01_emacs/quitting"
--'  1  5  ~/0x01_emacs/quitting
-|4,39,1,5,1718368338,"~/0x01_emacs/quitting"
--'  1  5  ~/0x01_emacs/quitting
-|4,39,1,5,1718368338,"~/0x01_emacs/quitting"
--'  1  4  ~/0x01_emacs/undoing
-|4,39,1,4,1718368248,"~/0x01_emacs/undoing"
--'  1  4  ~/0x01_emacs/undoing
-|4,39,1,4,1718368248,"~/0x01_emacs/undoing"
--'  1  4  ~/0x01_emacs/undoing
-|4,39,1,4,1718368248,"~/0x01_emacs/undoing"
--'  1  4  ~/0x01_emacs/undoing
-|4,39,1,4,1718368248,"~/0x01_emacs/undoing"
--'  1  4  ~/0x01_emacs/undoing
-|4,39,1,4,1718368248,"~/0x01_emacs/undoing"
--'  1  4  ~/0x01_emacs/undoing
-|4,39,1,4,1718368248,"~/0x01_emacs/undoing"
--'  1  4  ~/0x01_emacs/undoing
-|4,39,1,4,1718368248,"~/0x01_emacs/undoing"
--'  1  4  ~/0x01_emacs/undoing
-|4,39,1,4,1718368248,"~/0x01_emacs/undoing"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/searching
-|4,39,1,2,1718368178,"~/0x01_emacs/searching"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/pasting
-|4,39,1,2,1718368108,"~/0x01_emacs/pasting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
--'  1  2  ~/0x01_emacs/cutting
-|4,39,1,2,1718368003,"~/0x01_emacs/cutting"
+-'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,39,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+-'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,39,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+-'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 
 # History of marks within files (newest to oldest):
 
+> ~/alx-low_level_programming/0x03-debugging/0-main.c
+	*	1720555922	0
+	"	15	0
+	^	15	0
+	.	6	2
+	+	16	0
+	+	11	12
+	+	15	0
+	+	13	0
+	+	12	0
+	+	10	0
+	+	6	2
+
+> ~/alx-low_level_programming/0x03-debugging/main.h
+	*	1720555765	0
+	"	6	16
+	^	6	17
+	.	6	16
+	+	4	18
+	+	6	33
+	+	7	40
+	+	8	36
+	+	9	56
+	+	11	5
+	+	6	16
+
+> ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+	*	1720555644	0
+	"	3	18
+	^	13	1
+	.	8	0
+	+	1	17
+	+	1	115
+	+	1	81
+	+	1	115
+	+	1	82
+	+	1	137
+	+	3	32
+	+	4	1
+	+	5	6
+	+	6	0
+	+	5	9
+	+	7	37
+	+	9	15
+	+	9	52
+	+	11	9
+	+	11	4
+	+	11	5
+	+	11	38
+	+	13	1
+	+	1	93
+	+	1	17
+	+	5	5
+	+	7	0
+	+	9	12
+	+	9	16
+	+	10	0
+	+	7	31
+	+	10	26
+	+	11	0
+	+	12	0
+	+	12	29
+	+	13	1
+	+	14	0
+	+	8	0
+
+> ~/alx-low_level_programming/0x03-debugging/README.md
+	*	1719605746	0
+	"	1	18
+	^	1	19
+	.	2	0
+	+	2	0
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/README.md
+	*	1719354955	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /alx-low_level_programming/0x02-functions_nested_loops/7-print_last_digit.c
+	*	1719352925	0
+	"	18	7
+	^	18	8
+	.	18	7
+	+	1	17
+	+	9	27
+	+	15	16
+	+	16	14
+	+	22	0
+	+	15	1
+	+	19	2
+	+	20	22
+	+	21	14
+	+	18	7
+
+> /alx-low_level_programming/0x02-functions_nested_loops/7-main.c
+	*	1719352125	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
+	*	1718824737	0
+	"	2	122
+	^	2	123
+	.	2	119
+	+	2	119
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
+	*	1718824361	0
+	"	2	26
+	^	2	27
+	.	2	26
+	+	2	26
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
+	*	1718824155	0
+	"	2	21
+	^	2	22
+	.	2	21
+	+	2	21
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal
+	*	1718823870	0
+	"	2	21
+	^	2	22
+	.	2	21
+	+	2	21
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
+	*	1718814984	0
+	"	2	24
+	^	2	25
+	.	3	0
+	+	2	25
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
+	*	1718814675	0
+	"	2	44
+	^	2	45
+	.	2	44
+	+	2	44
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
+	*	1718814262	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
+	*	1718814054	0
+	"	2	21
+	^	2	22
+	.	2	22
+	+	2	22
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
+	*	1718813838	0
+	"	2	23
+	^	2	24
+	.	2	23
+	+	2	23
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
+	*	1718813333	0
+	"	2	27
+	^	2	28
+	.	3	0
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
+	*	1718812970	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
+	*	1718812818	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	1	11
+	+	2	11
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/5-local_variables
+	*	1718812672	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/4-global_variables
+	*	1718812563	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+	*	1718812389	0
+	"	2	49
+	^	2	43
+	.	2	42
+	+	2	42
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/2-path
+	*	1718811083	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/101-gifs
+	*	1718810452	0
+	"	2	61
+	^	2	62
+	.	3	0
+	+	1	11
+	+	2	92
+	+	2	62
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
+	*	1718809214	0
+	"	2	0
+	^	2	11
+	.	2	42
+	+	2	42
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+	*	1718742762	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/0-alias
+	*	1718742403	0
+	"	2	7
+	^	2	8
+	.	2	8
+	+	2	8
+
+> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+	*	1718741567	0
+	"	1	52
+	^	1	53
+	.	2	0
+	+	2	0
+
+> ~/alx-system_engineering-devops/README.md
+	*	1718741464	0
+	"	1	0
+	^	1	0
+
+> ~/zero_day/0x00-vagrant/0-hello_ubuntu
+	*	1718410355	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/zero_day/README.md
+	*	1718409879	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> /alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+	*	1718409024	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	28
+
+> /alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+	*	1718408863	0
+	"	2	33
+	^	2	34
+	.	2	22
+	+	2	22
+
+> /alx-system_engineering-devops/.git/MERGE_MSG
+	*	1718408598	0
+	"	7	46
+	^	7	47
+	.	7	46
+	+	7	46
+
+> /alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+	*	1718408401	0
+	"	2	28
+	^	2	29
+	.	3	0
+	+	3	0
+
+> /101-symbolic_link_permissions
+	*	1718408236	0
+	"	2	29
+	^	2	30
+	.	2	8
+	+	2	8
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/l-listit
+	*	1718407900	0
+	"	2	1
+	^	2	2
+	.	2	1
+	+	3	0
+	+	2	1
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/school.mgc
+	*	1718407195	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/103-commas
+	*	1718406631	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/102-tree
+	*	1718406024	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
+	*	1718405723	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	1	11
+	+	2	4
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/101
+	*	1718405620	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/100-lets_move
+	*	1718405531	0
+	"	2	20
+	^	2	21
+	.	2	6
+	+	3	0
+	+	2	6
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/14-copy_html
+	*	1718402957	0
+	"	2	16
+	^	2	17
+	.	2	6
+	+	2	6
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/13-symbolic_link
+	*	1718402632	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	1	11
+	+	2	19
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/12-file_type
+	*	1718402149	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/11-lists
+	*	1718401652	0
+	"	2	16
+	^	2	17
+	.	3	0
+	+	2	17
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/10-back
+	*	1718401326	0
+	"	2	3
+	^	2	4
+	.	2	3
+	+	2	3
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/9-firstdirdeletion
+	*	1718401160	0
+	"	2	28
+	^	2	29
+	.	3	0
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/8-firstdelete
+	*	1718401011	0
+	"	2	31
+	^	2	32
+	.	3	0
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/7-movethatfile
+	*	1718400845	0
+	"	2	36
+	^	2	37
+	.	2	36
+	+	2	36
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+	*	1718400627	0
+	"	2	28
+	^	2	29
+	.	3	0
+	+	2	29
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
+	*	1718400404	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	2	6
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
+	*	1718400163	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/3-listfiles
+	*	1718399990	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/2-bring_me_home
+	*	1718399803	0
+	"	2	3
+	^	2	4
+	.	2	3
+	+	2	3
+
 > /alx-system_engineering-devops/0x00-shell_basics/l-listit
-	*	1718371944	0
+	*	1718380057	0
 	"	2	1
 	^	2	2
 	.	2	1
