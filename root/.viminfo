@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1720555924,,"wq"
+|2,0,1720557377,,"wq"
 :wq!
 |2,0,1718823876,,"wq!"
 :WQ
@@ -33,36 +33,48 @@
 # Registers:
 
 # File marks:
-'0  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,48,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+'0  34  7  /.git/COMMIT_EDITMSG
+|4,48,34,7,1720557377,"/.git/COMMIT_EDITMSG"
 '1  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
-|4,49,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
-'2  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,50,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
-'3  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,51,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'4  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,52,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+|4,49,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+'2  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,50,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+'3  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,51,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+'4  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,52,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 '5  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
 |4,53,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'6  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,54,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'6  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,54,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 '7  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
 |4,55,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'8  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,56,1,93,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
-'9  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,57,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'8  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,56,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+'9  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,57,1,93,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 
 # Jumplist (newest first):
+-'  34  7  /.git/COMMIT_EDITMSG
+|4,39,34,7,1720557377,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1720557285,"/.git/COMMIT_EDITMSG"
 -'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
 |4,39,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+-'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,39,15,0,1720555924,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+-'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,39,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
 -'  15  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
 |4,39,15,0,1720555855,"~/alx-low_level_programming/0x03-debugging/0-main.c"
 -'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
 |4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
 -'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
 |4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x03-debugging/0-main.c
+|4,39,1,0,1720555799,"~/alx-low_level_programming/0x03-debugging/0-main.c"
 -'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
 |4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
 -'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
@@ -71,6 +83,22 @@
 |4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
 -'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
 |4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  6  16  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,6,16,1720555767,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
+|4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
 -'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
 |4,39,11,5,1720555660,"~/alx-low_level_programming/0x03-debugging/main.h"
 -'  11  5  ~/alx-low_level_programming/0x03-debugging/main.h
@@ -95,6 +123,22 @@
 |4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 -'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
 |4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  3  18  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,3,18,1720555651,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 -'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
 |4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 -'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
@@ -111,6 +155,38 @@
 |4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 -'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
 |4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555584,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 -'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
 |4,39,13,0,1720555458,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 -'  13  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
@@ -159,104 +235,37 @@
 |4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 -'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
 |4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  1  93  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,1,93,1720554835,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
--'  4  11  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
-|4,39,4,11,1720554828,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
+-'  14  0  ~/alx-low_level_programming/0x03-debugging/positive_or_negative.c
+|4,39,14,0,1720555275,"~/alx-low_level_programming/0x03-debugging/positive_or_negative.c"
 
 # History of marks within files (newest to oldest):
+
+> /.git/COMMIT_EDITMSG
+	*	1720557372	0
+	"	34	7
+	^	34	8
+	.	35	0
+	+	33	15
+	+	34	8
+	+	35	0
 
 > ~/alx-low_level_programming/0x03-debugging/0-main.c
 	*	1720555922	0
